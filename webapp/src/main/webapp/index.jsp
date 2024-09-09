@@ -7,6 +7,8 @@
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
+    <label for="uname"><b>password</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
     
 
     <button type="submit">Login</button>
